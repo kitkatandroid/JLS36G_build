@@ -34,7 +34,6 @@ PRODUCT_PACKAGES := \
     LatinIME \
     Launcher2 \
     Music \
-    MusicFX \
     OneTimeInitializer \
     Provision \
     Phone \
