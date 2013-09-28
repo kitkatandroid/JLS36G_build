@@ -48,6 +48,7 @@ PRODUCT_PACKAGES += \
     libdrm1_jni \
     libeffects \
     libiprouteutil \
+    libjni_latinime \
     libjnigraphics \
     libmedia \
     libmedia_jni \
